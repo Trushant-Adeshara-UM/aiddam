@@ -31,4 +31,11 @@ python3 src/train.py
 
 If you want to use pre-trained model, you can use this [link](https://drive.google.com/file/d/1IqC9cNaDSQz8aydt-Dmxj-BfH6-mCg2t/view?usp=sharing) to download the model which I trained on RTX 2080 GPU with 15 epoch. Place it in the checkpoints directory.
 
+To run pre-trained model you can use following command:
+```
+python3 src/sample.py
+```
+The above approach will work only if the environment is set correctly. Considering the versions used for this implementation are very old, I have configured a docker with everything built inside it. I will add the docker here.
+```
+
 ## Results Using Sample Data
