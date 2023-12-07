@@ -2,8 +2,8 @@
 EECS 504 Project Source Code
 
 Following are the 2 papers which are followed for developing the model and getting the dataset:
-1. 
-2. 
+- [Residual Attention Network for Image Classification](MHResAttNet-dataset_full-04122023-epoch=14-val_loss=3.17-val_acc=0.64.ckpt)
+- [Generalisable 3D printing error detection and correction via multi-head neural networks](https://www.nature.com/articles/s41467-022-31985-y)
 
 ## Download Dataset
 For ground-truth data I used filtered csv file from the 2nd paper link to which is here.
