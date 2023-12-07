@@ -6,9 +6,8 @@ Following are the 2 papers which are followed for developing the model and getti
 - [Generalisable 3D printing error detection and correction via multi-head neural networks](https://www.nature.com/articles/s41467-022-31985-y)
 
 ## Download Dataset
-For ground-truth data I used filtered csv file from the 2nd paper link to which is here.
-For training the model you will need caxton_dataset_filtered.csv alongside images of those corresponding csv entries, the dataset is huge and would consume near to 50GB and one needs to manually download each data folder.
-
+For the ground-truth data, I utilized a refined CSV file sourced from the second paper, accessible [here]()https://www.repository.cam.ac.uk/items/6d77cd6d-8569-4bf4-9d5f-311ad2a49ac8.
+To train the model, ensure you have the "caxton_dataset_filtered.csv" file along with the images corresponding to the entries in the CSV. Please note that the dataset is extensive and may require approximately 50GB of storage space. It's essential to manually download each data folder to complete the dataset preparation process.
 
 ## Setup
 In order to set the environment, use requirements.txt file. Current implementation is done on Ubuntu 18.04 with following versions:
@@ -30,7 +29,6 @@ Currently, maximum epoch are set to 15 which can be modified using (-e) and (-s)
 python src/train.py
 ```
 
-If you want to use pre-trained model, you can use following link to download the model which I trained on RTX 2080 GPU with 15 epoch in the checkpoints directory
-#TODO Add Link of the model
+If you want to use pre-trained model, you can use this [link](https://drive.google.com/file/d/1IqC9cNaDSQz8aydt-Dmxj-BfH6-mCg2t/view?usp=sharing) to download the model which I trained on RTX 2080 GPU with 15 epoch. Place it in the checkpoints directory.
 
 ## Results Using Sample Data
