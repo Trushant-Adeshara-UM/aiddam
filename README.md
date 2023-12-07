@@ -6,7 +6,7 @@ Following are the 2 papers which are followed for developing the model and getti
 - [Generalisable 3D printing error detection and correction via multi-head neural networks](https://www.nature.com/articles/s41467-022-31985-y)
 
 ## Download Dataset
-For the ground-truth data, I utilized a refined CSV file sourced from the second paper, accessible [here]()https://www.repository.cam.ac.uk/items/6d77cd6d-8569-4bf4-9d5f-311ad2a49ac8.
+For the ground-truth data, I utilized a refined CSV file sourced from the second paper, accessible [here](https://www.repository.cam.ac.uk/items/6d77cd6d-8569-4bf4-9d5f-311ad2a49ac8).
 To train the model, ensure you have the "caxton_dataset_filtered.csv" file along with the images corresponding to the entries in the CSV. Please note that the dataset is extensive and may require approximately 50GB of storage space. It's essential to manually download each data folder to complete the dataset preparation process.
 
 ## Setup
