@@ -26,7 +26,7 @@ pip install -r requirements.txt
 PyTorch-Lightning (1.1.4) is used as wrapper for both the dataset and data module classes. Configuration parameters for the training are in **src/train_config.py**. 
 Currently, maximum epoch are set to 15 which can be modified using (-e) and (-s) for seed parameter. Use following command to train the model:
 ```
-python src/train.py
+python3 src/train.py
 ```
 
 If you want to use pre-trained model, you can use this [link](https://drive.google.com/file/d/1IqC9cNaDSQz8aydt-Dmxj-BfH6-mCg2t/view?usp=sharing) to download the model which I trained on RTX 2080 GPU with 15 epoch. Place it in the checkpoints directory.
