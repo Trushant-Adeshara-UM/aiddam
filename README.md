@@ -1,4 +1,4 @@
-# aiddam
+# AI-Based Defect Detector for Additive Manufacturing (AIDDAM) 
 EECS 504 Project Source Code
 
 Following are the 2 papers which are followed for developing the model and getting the dataset:
