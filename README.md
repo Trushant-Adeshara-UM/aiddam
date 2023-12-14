@@ -39,5 +39,5 @@ The above approach will work only if the environment is set correctly. Consideri
 ```
 
 ## Results Using Sample Data
-![results](./results.png)
+![result](./result.png)
 
