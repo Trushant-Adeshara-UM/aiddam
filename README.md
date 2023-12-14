@@ -39,6 +39,7 @@ The above approach will work only if the environment is set correctly. Consideri
 ```
 
 ## Results Using Sample Data
-<img src="/result.png" alt="Results">
+![Screenshot](result.png)
+
 
 
