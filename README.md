@@ -39,5 +39,6 @@ The above approach will work only if the environment is set correctly. Consideri
 ```
 
 ## Results Using Sample Data
-![result](/result.png)
+<img src="/result.png" alt="Results">
+
 
