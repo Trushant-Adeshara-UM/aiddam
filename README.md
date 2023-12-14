@@ -39,7 +39,10 @@ The above approach will work only if the environment is set correctly. Consideri
 ```
 
 ## Results Using Sample Data
-<img src="/result.png" alt="Results">
+
+<img src="images/result.png" alt="Results">
 ![images/result.png](images/result.png)
+
+
 
 
