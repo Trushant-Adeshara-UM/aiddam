@@ -40,7 +40,7 @@ The above approach will work only if the environment is set correctly. Consideri
 
 ## Results Using Sample Data
 
-<img src="images/result.png" alt="Results">
+<img src="https://github.com/Trushant-Adeshara-UM/aiddam/blob/main/images/result.png" alt="Results">
 ![images/result.png](images/result.png)
 
 
