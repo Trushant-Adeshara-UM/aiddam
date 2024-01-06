@@ -39,7 +39,8 @@ The above approach will work only if the environment is set correctly. Consideri
 ```
 
 ## Results Using Sample Data
-![Result](./images/result.png)
+
+![](/images/result.png)
 
 
 
