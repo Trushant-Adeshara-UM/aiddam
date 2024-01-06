@@ -39,8 +39,7 @@ The above approach will work only if the environment is set correctly. Consideri
 ```
 
 ## Results Using Sample Data
-![Result](https://github.com/Trushant-Adeshara-UM/aiddam/blob/main/images/result.png)
-[<img src="https://github.com/Trushant-Adeshara-UM/aiddam/blob/main/images/result.png"/>][Result]
+![Result](./images/result.png)
 
 
 
