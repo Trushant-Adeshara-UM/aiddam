@@ -36,11 +36,9 @@ To run pre-trained model you can use following command:
 python3 src/sample.py
 ```
 The above approach will work only if the environment is set correctly. Considering the versions used for this implementation are very old, I have configured a docker with everything built inside it. I will add the docker here.
-```
 
 ## Results Using Sample Data
-
-![](/images/result.png)
+![](images/result.png)
 
 
 
